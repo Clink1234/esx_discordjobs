@@ -1,5 +1,5 @@
 # ESX Discord Jobs - Created By Clink123
-This script allows a user to select/deselect a job based on their Discord Roles.
+FiveM ESX script that allows players to take jobs, using Discord roles to whitelist these jobs.
 
 ## Prerequisites
 

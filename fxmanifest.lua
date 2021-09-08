@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'Clink123'
 
-version '0.1.0'
+version '0.1.1'
 
 description 'ESX Discord Jobs'
 

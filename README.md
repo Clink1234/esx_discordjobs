@@ -15,7 +15,7 @@ This resource was built and designed for [ESX Legacy](https://github.com/esx-fra
 
 ## License
 
-This resource/script/modification is provided free of charge. No warranty is provided in any form. Any responsibiltiy for danages caused by this resource rest solely with the user. The author(s) of this script accept no liability. By using this resource, you agree to the following terms...
+This resource/script/modification is provided free of charge. No warranty is provided in any form. Any responsibility for damages caused by this resource rest solely with the user. The author(s) of this script accept no liability. By using this resource, you agree to the following terms...
 
 - The license must remain unmodified and in its original state, installed with the resource in your server.
 - You may not redistribute, modify and redistribute, or claim this work as your own. Any modifications you make to this resource must be for personal use only.

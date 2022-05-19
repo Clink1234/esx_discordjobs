@@ -4,11 +4,9 @@ game 'gta5'
 
 author 'Clink123'
 
-version '0.1.1'
+version '0.2.0'
 
 description 'ESX Discord Jobs'
-
-version 'legacy'
 
 shared_script '@es_extended/imports.lua'
 
